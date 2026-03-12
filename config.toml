@@ -1,0 +1,8 @@
+baseURL = 'https://iflykingc-oss.github.io/hugo-blog/'
+languageCode = 'zh-CN'
+title = '北京生活计算器博客'
+theme = 'ananke'
+
+[params]
+  author = '二猫'
+  description = '记录生活计算工具开发历程'
